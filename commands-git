@@ -3,3 +3,7 @@ git add
 git commit -m
 git push
 git pull
+git branch "avec le nom branche"
+git switch
+git branch "pour verifier"
+
